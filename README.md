@@ -1,7 +1,19 @@
-# my-static-siteecho "# my-static-site" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ntsaneu/my-static-site.git
-git push -u origin main
+
+# My Static Website
+
+A simple static website built with HTML and CSS, deployed using GitHub Pages.
+
+## Live Site
+
+You can view the live website here:  
+[https://ntsaneu.github.io/my-static-site/](https://ntsaneu.github.io/my-static-site/)
+
+## Built With
+
+- HTML5
+- CSS3
+
+## Author
+
+**Ntsane**  
+- GitHub: [ntsaneu](https://github.com/ntsaneu)
